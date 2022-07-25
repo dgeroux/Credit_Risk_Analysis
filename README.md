@@ -73,13 +73,16 @@ ________________________________________________________________________________
 The Easy Ensemble AdaBoost Classifier model produced the most dependable predicitions with the following scores:
 
 **Balanced accuracy score** - 0.93
+
 This score indicates that this models predicitons are accurate ~93% of the time.
 
 **Precision** - high_risk (0.08) and low_risk (1.00)
+
 High_risk precision score of 0.08 indicates that this model will NOT label a high risk borrower as a low risk borrower 8% of the time.
 Low_risk precision score of 1.00 indicates that this model will NOT label a low risk borrower as a high risk borrower 100% of the time.
 
 **Recall** - high_risk (0.91) and low_risk (0.94)
+
 High_risk recall score of 0.91 indicates that this model will predict all the high risk borrowers 91% of the time.
 Low_risk recall score of 0.94 indicates that this model will predict all the low risk borrowers 94% of the tiem.
 
