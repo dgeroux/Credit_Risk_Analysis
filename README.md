@@ -15,4 +15,22 @@ The following definitions are paramount to the understanding of the following sc
 
 **Recall** - The recall is intuitively the ability of the classifier to find all the positive samples. The best value is 1 and the worst value is 0.
 
+### Random Oversampling 
+![image](https://github.com/dgeroux/Credit_Risk_Analysis/blob/main/Resources/random_oversampling.png)
+
+### SMOTE Oversampling 
+![image](https://github.com/dgeroux/Credit_Risk_Analysis/blob/main/Resources/SMOTE_oversampling.png)
+
+### Cluster Undersampling 
+![image](https://github.com/dgeroux/Credit_Risk_Analysis/blob/main/Resources/cluster_undersampler.png)
+
+### SMOTEENN Sampler 
+![image](https://github.com/dgeroux/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_sampler.png)
+
+### BRFC Sampler 
+![image](https://github.com/dgeroux/Credit_Risk_Analysis/blob/main/Resources/BRFC_sampler.png)
+
+### EEAC Sampler 
+![image](https://github.com/dgeroux/Credit_Risk_Analysis/blob/main/Resources/EEAC_sampler.png)
+
 ## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
