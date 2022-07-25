@@ -9,10 +9,10 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 The following definitions are paramount to the understanding of the following screenshots:
 
-**Balanced accuracy score - The balanced_accuracy_score function computes the balanced accuracy, which avoids inflated performance estimates on imbalanced datasets. The best value is 1 and the worst value is 0
+**Balanced accuracy score** - The balanced_accuracy_score function computes the balanced accuracy, which avoids inflated performance estimates on imbalanced datasets. The best value is 1 and the worst value is 0
 
-**Precision - The precision is intuitively the ability of the classifier not to label as positive a sample that is negative. The best value is 1 and the worst value is 0.
+**Precision** - The precision is intuitively the ability of the classifier not to label as positive a sample that is negative. The best value is 1 and the worst value is 0.
 
-**Recall - The recall is intuitively the ability of the classifier to find all the positive samples. The best value is 1 and the worst value is 0.
+**Recall** - The recall is intuitively the ability of the classifier to find all the positive samples. The best value is 1 and the worst value is 0.
 
 ## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
